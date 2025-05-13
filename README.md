@@ -10,7 +10,7 @@ import numpy as np
 
 ## The Funtion
 
-the function is defined as follows:
+the function is located in the file named "trap.py" and defined as follows:
 ```
 Trap(a,b,fun)
 ```
