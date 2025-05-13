@@ -19,6 +19,7 @@ where:
 - b: the upper bound of the integral
 - fun: the function we're gunna integrate
 
+
 ## Input of the Script
 
 ```
@@ -29,7 +30,8 @@ line 29+30,  fun=?  please modify it accordingly
 
 ## Exmaple
 
-> I have provided an example of the Frensel Integartion running from a=0 and b=1000 in order to just show a comparison with the actual value $$\sqrt{pi/8}$$
+ I have provided an example of the Frensel Integartion running from a=0 and b=1000 in order to just show a comparison with the actual value $$\sqrt{\pi/8}$$
+
 
 ## License
 
